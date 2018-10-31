@@ -1,2 +1,2 @@
 # angularPlayground
-My Playground While Learning Angular JS
+My Playground While Learning Angular
